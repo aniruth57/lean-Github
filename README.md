@@ -1,2 +1,2 @@
 # lean-Github
-My first lesson is about Thinrt.
+My first lesson is about Tkinter.
